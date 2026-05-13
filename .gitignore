@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+data/faiss_index/
+data/*.htm
+.DS_Store
+venv/
